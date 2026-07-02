@@ -1,0 +1,14 @@
+torch
+torchvision
+monai==0.7.0
+transformers==4.33.0
+numpy
+matplotlib
+scipy
+scikit-learn
+opencv-python
+nibabel
+tqdm
+torchsummary
+jupyter
+einops
